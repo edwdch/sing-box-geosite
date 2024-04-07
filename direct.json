@@ -5,6 +5,12 @@
       "domain": [
         "aihubmix.com"
       ]
+    },
+    {
+      "domain_suffix": []
+    },
+    {
+      "ip_cidr": []
     }
   ]
 }
