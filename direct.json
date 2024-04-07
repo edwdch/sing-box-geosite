@@ -5,6 +5,11 @@
       "domain": [
         "aihubmix.com"
       ]
+    },
+    {
+      "domain_suffix": [
+        ".aihubmix.com"
+      ]
     }
   ]
 }
