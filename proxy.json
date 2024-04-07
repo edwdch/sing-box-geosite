@@ -4,6 +4,10 @@
     {
       "domain": [
         "devv.ai"
+    },
+    {
+      "domain_suffix": [
+        ".devv.ai"
       ]
     }
   ]
